@@ -23,5 +23,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=fizz168&layout=compact&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=@fizz168&layout=compact&theme=tokyonight)
 
