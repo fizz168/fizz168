@@ -24,4 +24,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=@fizz168&layout=compact&theme=tokyonight)
+![Profile Views](https://count.getloli.com/@LancD?name=LancD&theme=rule34&padding=10&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
