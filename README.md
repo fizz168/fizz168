@@ -7,8 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/i330z/76321b8be37cd29720bbaf781c09dbfa/raw/92cbc180c0d91f75a9cec806d6935fc94ff58a26/code.gif">
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/https://web.facebook.com/nhean.omra](https://www.facebook.com/share/1DXJa1xagD/?mibextid=wwXIfr)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/f1zzology/](https://www.instagram.com/f1zzology?igsh=MWdwb3MxdTZneDRjcQ%3D%3D&utm_source=qr)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:https://mail.google.com/mail/u/0/#inbox) 
+
 
 
 # 📊 GitHub Stats:
