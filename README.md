@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/nhean.omra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/f1zzology/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:https://mail.google.com/mail/u/0/#inbox) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/https://web.facebook.com/nhean.omra](https://www.facebook.com/share/1DXJa1xagD/?mibextid=wwXIfr)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/f1zzology/](https://www.instagram.com/f1zzology?igsh=MWdwb3MxdTZneDRjcQ%3D%3D&utm_source=qr)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:https://mail.google.com/mail/u/0/#inbox) 
 
 
 # 📊 GitHub Stats:
