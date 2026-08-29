@@ -1,28 +1,32 @@
-# Hi there its Fizz 👋
+### Hey, I'm Omra (Fizz).
+
+I'm a **Software Engineering Student** .
 
 
 
+#### 🛠 Stack & Tools
 
-- 🔭 I’m a software engineer 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/i330z/76321b8be37cd29720bbaf781c09dbfa/raw/92cbc180c0d91f75a9cec806d6935fc94ff58a26/code.gif">
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fizz168&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fizz168&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fizz168&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fizz168&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,cpp,react,nextjs,tailwind,html,css,nodejs,express,postgres,mysql,git,docker,linux,vite,figma&perline=9&theme=dark" alt="My Skills" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fizz168&icon=0&color=0)](https://visitcount.itsvg.in)
+#### ⚡ Coding Activity
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  <a href="https://wakatime.com/@fizz168">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=fizz168&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  </a>
+</p>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=@fizz168&layout=compact&theme=tokyonight)
-![Profile Views](https://count.getloli.com/@LancD?name=LancD&theme=rule34&padding=10&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+---
+
+#### 🔗 Let's Connect
+
+[GitHub](https://github.com/nheanomra) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/omra-nhean-604588355) &nbsp;•&nbsp; [Email](mailto:nheanomra@email.com) &nbsp;•&nbsp; [Instagram](https://www.instagram.com/f1zzology) &nbsp;•&nbsp; [Discord](https://discord.com/users/1374390415058403429)
+
+
+
 
