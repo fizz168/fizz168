@@ -24,8 +24,7 @@ I'm a **Software Engineering Student** .
 ---
 
 #### 🔗 Let's Connect
-
-[GitHub](https://github.com/nheanomra) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/omra-nhean-604588355) &nbsp;•&nbsp; [Email](mailto:nheanomra@email.com) &nbsp;•&nbsp; [Instagram](https://www.instagram.com/f1zzology) &nbsp;•&nbsp; [Discord](https://discord.com/users/1374390415058403429)
+ [LinkedIn](https://www.linkedin.com/in/omra-nhean-604588355) &nbsp;•&nbsp; [Email](mailto:nheanomra@email.com) &nbsp;•&nbsp; [Instagram](https://www.instagram.com/f1zzology) &nbsp;•&nbsp; [Discord](https://discord.com/users/1374390415058403429)
 
 
 
